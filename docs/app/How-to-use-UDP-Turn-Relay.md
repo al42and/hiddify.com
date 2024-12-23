@@ -9,7 +9,8 @@ Recently, a feature called UDP Turn Relay is used in messengers to bypass filter
 
 <div alifn=center>
 
-![UDP Turn Relay_en](https://github.com/hiddify/hiddify-next/assets/125398461/037262d4-ad89-45c0-bcab-c6504c08d3df)
+<img width=100% src="https://github.com/hiddify/hiddify-next/assets/125398461/037262d4-ad89-45c0-bcab-c6504c08d3df">
+
 </div>
 
 Note that this feature only works for configurations that are on the UDP protocol. This means that this feature can be used on Hysteria2 or TUIC v5, but it cannot be used for reality.
